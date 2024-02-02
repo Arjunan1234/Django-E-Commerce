@@ -10,9 +10,8 @@ class Address(models.Model):
 
     def __str__(self):
         return self.locality
-    
-    
-    
+
+
 class Category(models.Model):
     title = models.CharField(max_length=50, verbose_name="Category Title")
     slug = models.SlugField(max_length=55, verbose_name="Category Slug")
