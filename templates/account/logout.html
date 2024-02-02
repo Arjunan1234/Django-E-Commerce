@@ -1,0 +1,7 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+<h2>Logout Successful</h2>
+<p>You have been successfully logged out.   <a href="{% url 'store:login' %}">Go to Login</a> Or <a href="{% url 'store:home' %}">Go to Home</a>.</p>
+{% endblock %}
