@@ -1,11 +1,12 @@
 # E-Commerce Web Application
 "This project is a comprehensive e-commerce web application created with Django, HTML, CSS, Bootstrap, JavaScript, and SQLite."
 
-## Getting Started
 
-1. **Run the application:**
+
+ **Run the application:**
    ```
    git clone https://github.com/Arjunan1234/Django-E-Commerce.git
+   cd Django-E-Commerce
    venv\scripts\activate
    pip install django
    python manage.py makemigrations
