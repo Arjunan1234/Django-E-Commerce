@@ -1,11 +1,12 @@
 # E-Commerce Web Application
 "This project is a comprehensive e-commerce web application created with Django, HTML, CSS, Bootstrap, JavaScript, and SQLite."
 
-## Getting Started
 
-1. **Run the application:**
+
+ **Run the application:**
    ```
    git clone https://github.com/Arjunan1234/Django-E-Commerce.git
+   cd Django-E-Commerce
    venv\scripts\activate
    pip install django
    python manage.py makemigrations
@@ -20,9 +21,9 @@
 ## Category Page
 ![Screenshot (477)](https://github.com/Arjunan1234/Django-E-Commerce/assets/63443618/38ab0eed-58f6-48ab-b1ab-0c64f9b7eda2)
 ## Product List
-![Screenshot (478)](https://github.com/Arjunan1234/Django-E-Commerce/assets/63443618/8ac30581-f761-49e2-b812-a4ce1afff30c)
+![Screenshot (489)](https://github.com/Arjunan1234/Django-E-Commerce/assets/63443618/5327c401-cd42-44ee-98ae-65feaf710139)
 ## Showing Currently Unavailabe / Add to Cart
-![Screenshot (479)](https://github.com/Arjunan1234/Django-E-Commerce/assets/63443618/c2b0378e-be59-4b43-bf6e-f7d2e843a624)
+![Screenshot (488)](https://github.com/Arjunan1234/Django-E-Commerce/assets/63443618/192f8ec7-d39a-4780-b667-ad9518ad76f1)
 ## Product Details
 ![Screenshot (480)](https://github.com/Arjunan1234/Django-E-Commerce/assets/63443618/f4d938cd-e7d0-4772-a3bc-1b455a78446c)
 ## Unavailable Product Details
